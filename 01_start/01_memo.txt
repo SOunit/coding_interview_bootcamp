@@ -18,3 +18,11 @@
 
 // conclusion
 coding interview practice is the most important and easily improvable.
+
+// evaluating coding ability tools
+1. take-home assignment
+2. pair-programming at a computer
+3. whiteboarding
+    1. especially in big company
+
+// best way to be better is PRACTICE!!
