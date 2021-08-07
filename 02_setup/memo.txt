@@ -1,0 +1,11 @@
+// setup for running test
+
+// run all test
+in /00_AlgoCasts run code below
+
+jest
+
+// run each test
+in /00_AlgoCasts run code below
+
+jest fib/test.js --watch
