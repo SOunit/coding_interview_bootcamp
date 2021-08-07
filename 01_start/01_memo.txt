@@ -6,3 +6,15 @@
 2. interview phase
     1. phone screen
     2. onsite interview
+
+// what they check in each steps
+1. contact phase
+    1. work experience
+    2. side projects
+    3. social contacts
+2. interview phase
+    1. culture fit
+    2. Can you code?
+
+// conclusion
+coding interview practice is the most important and easily improvable.
