@@ -6,6 +6,6 @@ in /00_AlgoCasts run code below
 jest
 
 // run each test
-in /00_AlgoCasts run code below
+in /00_AlgoCasts/exercises run code below
 
 jest fib/test.js --watch
